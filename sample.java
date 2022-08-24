@@ -1,1 +1,1 @@
-Java first statement
+My first idea

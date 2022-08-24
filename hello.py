@@ -1,1 +1,1 @@
-Print(Welcome to Multiplex)
+My first idea
